@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956792753045",
+    "firebase_url": "https://maosmonitor.firebaseio.com",
+    "project_id": "maosmonitor",
+    "storage_bucket": "maosmonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956792753045:android:ef5b108f37088774e1049c",
+        "android_client_info": {
+          "package_name": "com.maos.monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956792753045-r7qi3j9bf1l6no4qjrutnl22o2vrfi85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maos.monitor",
+            "certificate_hash": "8081292d3e9a744241887931f0a554a145d7814f"
+          }
+        },
+        {
+          "client_id": "956792753045-koggcq7oivv1e29avqaert7gii2pqlie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6jLtYbszV_nmnejxITauZJf-H8t9t-iU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956792753045-koggcq7oivv1e29avqaert7gii2pqlie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

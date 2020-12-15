@@ -1,0 +1,8 @@
+{
+  "name": "maosmonitor",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
